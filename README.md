@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on the Gold online shop (Gold solution).<br>⚡ Fun fact: If I could only eat one type of food for the rest of your life, that would be absolutely Pizzzaaaaaa
+🔭 I’m currently working on the Gold Solution.<br>⚡ Fun fact: If I could only eat one type of food for the rest of my life, that would be absolutely Pizzzaaaaaa
 
 
 ## 🌐 Socials:
