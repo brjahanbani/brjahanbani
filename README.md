@@ -23,7 +23,7 @@ currently_building: Gold-Solution — full-stack gold jewelry e-commerce platfor
 currently_studying: MSc Information Technology @ Bahçeşehir University (2027)
 next_move: PhD application — Fall 2027
 past_life: Co-founder @ Xponent — shipped 30+ platforms, incl. a national-scale platform (30M+ users)
-languages: Persian & Azerbaijani (native) · English (professional) · Turkish (B2)
+languages: Persian & Azerbaijani (native) · English (professional) · Turkish (C1)
 fun_fact: If I could eat one food forever, it's 🍕 Pizza. No debate.
 ```
 
@@ -85,31 +85,10 @@ Streaming pipeline over 2.7M+ e-commerce events with a leakage-corrected evaluat
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=brjahanbani&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=brjahanbani&theme=radical&hide_border=true" height="165" />
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brjahanbani&layout=compact&theme=radical&hide_border=true" />
-</div>
-
-### 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=brjahanbani&theme=radical&no-frame=true&row=1&column=7" />
-</div>
-
----
-
 <div align="center">
 
 📫 **Let's connect:** [LinkedIn](https://linkedin.com/in/babak-rad-jahanbani)
 
-<img src="https://visitcount.itsvg.in/api?id=brjahanbani&icon=6&color=6" />
-
-<sub>Built with 🍕 and probably too much coffee, in Istanbul.</sub>
+<sub>Built with daily 🍳🍳🍳 and ☕️ , in Istanbul.</sub>
 
 </div>
