@@ -21,7 +21,7 @@ role: Product Owner & Co-Founder
 based_in: Istanbul, Turkey
 currently_building: Gold-Solution — full-stack gold jewelry e-commerce platform
 currently_studying: MSc Information Technology @ Bahçeşehir University (2027)
-next_move: PhD applications → Nordic universities (NTNU NorwAI, KTH, UiO, Chalmers) — Fall 2027
+next_move: PhD application — Fall 2027
 past_life: Co-founder @ Xponent — shipped 30+ platforms, incl. a national-scale platform (30M+ users)
 languages: Persian & Azerbaijani (native) · English (professional) · Turkish (B2)
 fun_fact: If I could eat one food forever, it's 🍕 Pizza. No debate.
@@ -30,9 +30,9 @@ fun_fact: If I could eat one food forever, it's 🍕 Pizza. No debate.
 - 🔭 Currently building **Gold-Solution** — NestJS + Next.js 14 + Prisma/Supabase, with gold-price-based pricing and multi-channel order flows
 - 🎓 MSc student mixing product thinking with data engineering (Kafka, Spark, LSTMs) for real coursework projects
 - 🌱 Deep in leakage-aware ML evaluation and offline/online metric discrepancies — my favorite rabbit hole right now
-- 🎯 Long-term goal: PhD research on recommender system evaluation gaps
+- 🎯 Long-term goal: PhD research on E-commerce Big Data challenges
 - 💬 Ask me about turning messy product problems into shipped, working systems
-- ⚡ Brand: **E-BEY** — *Türkiye'nin Güvenilir Dijital Yüzü*
+- ⚡ Personal Brand (in Turkey): **E-BEY** — *Türkiye'nin Güvenilir Dijital Yüzü*
 
 ---
 
