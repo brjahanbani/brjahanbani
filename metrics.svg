@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="200" viewBox="0 0 1200 200" role="img" aria-label="Track record: 10+ years, 30+ platforms, 25M+ users, 2M+ orders, 15 to 300+ B2B network, 8 launches in under 2 months.">
+  <defs>
+    <linearGradient id="gold" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#F6DE9C"/>
+      <stop offset="1" stop-color="#C08F2E"/>
+    </linearGradient>
+    <style>
+      .sans{font-family:'Segoe UI',-apple-system,BlinkMacSystemFont,Ubuntu,'Helvetica Neue',Arial,sans-serif}
+      .mono{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,'DejaVu Sans Mono',monospace}
+      .c{opacity:0;animation:up .7s cubic-bezier(.2,.7,.2,1) forwards}
+      @keyframes up{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+      .bar{transform:scaleX(0);animation:grow 1.1s cubic-bezier(.2,.7,.2,1) forwards}
+      @keyframes grow{to{transform:scaleX(1)}}
+    </style>
+  </defs>
+  <rect width="1200" height="200" rx="18" fill="#0A0E16"/>
+  <rect x="0.5" y="0.5" width="1199" height="199" rx="18" fill="none" stroke="#D4A84B" stroke-opacity="0.25"/>
+  <text x="32" y="36" class="mono" font-size="12" letter-spacing="2.5" fill="#D4A84B">04 — TRACK RECORD / PROOF</text>
+
+  <!-- card width 184, gap 12, start x=18 -->
+  <g class="c" style="animation-delay:.05s">
+    <rect x="18" y="52" width="184" height="130" rx="12" fill="#111827" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <text x="36" y="104" class="sans" font-size="36" font-weight="800" fill="url(#gold)">10+</text>
+    <text x="36" y="132" class="sans" font-size="14" font-weight="600" fill="#E8ECF3">Years in product</text>
+    <text x="36" y="152" class="mono" font-size="10.5" fill="#8A94A6">analysis → build → scale</text>
+    <rect x="36" y="166" width="148" height="3" rx="1.5" fill="#D4A84B" class="bar" style="transform-origin:36px 0;animation-delay:.3s"/>
+  </g>
+  <g class="c" style="animation-delay:.2s">
+    <rect x="214" y="52" width="184" height="130" rx="12" fill="#111827" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <text x="232" y="104" class="sans" font-size="36" font-weight="800" fill="url(#gold)">30+</text>
+    <text x="232" y="132" class="sans" font-size="14" font-weight="600" fill="#E8ECF3">Platforms shipped</text>
+    <text x="232" y="152" class="mono" font-size="10.5" fill="#8A94A6">stores · portals · apps</text>
+    <rect x="232" y="166" width="148" height="3" rx="1.5" fill="#D4A84B" class="bar" style="transform-origin:232px 0;animation-delay:.45s"/>
+  </g>
+  <g class="c" style="animation-delay:.35s">
+    <rect x="410" y="52" width="184" height="130" rx="12" fill="#111827" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <text x="428" y="104" class="sans" font-size="36" font-weight="800" fill="url(#gold)">25M+</text>
+    <text x="428" y="132" class="sans" font-size="14" font-weight="600" fill="#E8ECF3">Users served</text>
+    <text x="428" y="152" class="mono" font-size="10.5" fill="#8A94A6">national utility platform</text>
+    <rect x="428" y="166" width="148" height="3" rx="1.5" fill="#D4A84B" class="bar" style="transform-origin:428px 0;animation-delay:.6s"/>
+  </g>
+  <g class="c" style="animation-delay:.5s">
+    <rect x="606" y="52" width="184" height="130" rx="12" fill="#111827" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <text x="624" y="104" class="sans" font-size="36" font-weight="800" fill="url(#gold)">2M+</text>
+    <text x="624" y="132" class="sans" font-size="14" font-weight="600" fill="#E8ECF3">Orders processed</text>
+    <text x="624" y="152" class="mono" font-size="10.5" fill="#8A94A6">across e-commerce ops</text>
+    <rect x="624" y="166" width="148" height="3" rx="1.5" fill="#D4A84B" class="bar" style="transform-origin:624px 0;animation-delay:.75s"/>
+  </g>
+  <g class="c" style="animation-delay:.65s">
+    <rect x="802" y="52" width="184" height="130" rx="12" fill="#111827" stroke="#FFFFFF" stroke-opacity="0.07"/>
+    <text x="820" y="104" class="sans" font-size="29" font-weight="800" fill="url(#gold)">15→300+</text>
+    <text x="820" y="132" class="sans" font-size="14" font-weight="600" fill="#E8ECF3">B2B network growth</text>
+    <text x="820" y="152" class="mono" font-size="10.5" fill="#8A94A6">one integrated system</text>
+    <rect x="820" y="166" width="148" height="3" rx="1.5" fill="#D4A84B" class="bar" style="transform-origin:820px 0;animation-delay:.9s"/>
+  </g>
+  <g class="c" style="animation-delay:.8s">
+    <rect x="998" y="52" width="184" height="130" rx="12" fill="#1A1608" stroke="#D4A84B" stroke-opacity="0.45"/>
+    <text x="1016" y="104" class="sans" font-size="36" font-weight="800" fill="url(#gold)">8</text>
+    <text x="1016" y="132" class="sans" font-size="14" font-weight="600" fill="#E8ECF3">Launches &lt; 2 months</text>
+    <text x="1016" y="152" class="mono" font-size="10.5" fill="#B8A26E">E-BEY · Istanbul 2026</text>
+    <rect x="1016" y="166" width="148" height="3" rx="1.5" fill="#3DDC97" class="bar" style="transform-origin:1016px 0;animation-delay:1.05s"/>
+  </g>
+</svg>
