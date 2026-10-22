@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://e-bey.site"><img src="./assets/hero.svg" width="100%" alt="Babak (Bob) Rad Jahanbani — I build online stores that actually drive sales." /></a>
+<a href="https://e-bey.site"><img src="./hero.svg" width="100%" alt="Babak (Bob) Rad Jahanbani — I build online stores that actually drive sales." /></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=D4A84B&center=true&vCenter=true&width=720&lines=8+production+platforms+launched+in+under+2+months;Full-Stack+Developer+%C2%B7+E-BEY%2C+Istanbul;Real-time+gold+pricing+%C2%B7+payments+%C2%B7+checkout+flows;Custom+Kanban+%2B+CRM+%E2%80%94+built+from+scratch;MSc+IT+%40+Bah%C3%A7e%C5%9Fehir+%E2%86%92+PhD-bound%2C+Fall+2027" alt="Typing SVG" />
 
@@ -33,7 +33,7 @@ speaks:      Persian & Azerbaijani (native) · English (professional) · Turkish
 fuel:        🍳🍳🍳 + ☕ · and if it's one food forever → 🍕
 ```
 
-<img src="./assets/metrics.svg" width="100%" alt="Track record" />
+<img src="./metrics.svg" width="100%" alt="Track record" />
 
 ---
 
@@ -123,7 +123,7 @@ Streaming pipeline over 2.7M+ events with an honest evaluation story: offline AU
 
 ---
 
-<img src="./assets/timeline.svg" width="100%" alt="Career timeline" />
+<img src="./timeline.svg" width="100%" alt="Career timeline" />
 
 <details>
 <summary><b>📜 Expand the full track record</b></summary>
